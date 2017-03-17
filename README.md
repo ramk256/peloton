@@ -8,7 +8,7 @@
 [![Join the chat at https://gitter.im/cmu-db/peloton](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cmu-db/peloton?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## What Is Peloton?
-
+Sample Text
 * Peloton is a self-driving SQL database management system.
 * Integrated artificial intelligence components that enable autonomous optimizations.
 * Native support for byte-addressable non-volatile memory (NVM) storage technology.
